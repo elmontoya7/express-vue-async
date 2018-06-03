@@ -1,0 +1,20 @@
+{
+  "name": "express-vue-async",
+  "version": "1.0.0",
+  "description": "Test for async functions with express-vue 5 and babel",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "A6",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-vue": "^5.6.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
